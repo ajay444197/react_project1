@@ -14,3 +14,6 @@
 ### Create new files and directories
 - src/components/Navbar.js
 - src/components/Navbar.css
+
+### autocompletions
+- rfce : import React from 'react' ... ... ... export default Navbar
