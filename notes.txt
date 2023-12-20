@@ -1,0 +1,9 @@
+### Delete useless files
+- in src
+	- setupTests.js
+	- logo.svg
+	- searchWorker.js
+	- App.test.js
+### Modifications
+- in src/index.jx
+	- remove comments
