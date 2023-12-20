@@ -4,6 +4,13 @@
 	- logo.svg
 	- searchWorker.js
 	- App.test.js
+	- index.css
 ### Modifications
 - in src/index.jx
 	- remove comments
+	- remove strict mode
+- remove useless lines in relevant files
+
+### Create new files and directories
+- src/components/Navbar.js
+- src/components/Navbar.css
